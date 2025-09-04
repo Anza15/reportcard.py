@@ -1,0 +1,16 @@
+==== Student Report Card ====
+Report ID: 8415
+Date: 2025-09-04 / 21:37:52
+Student Name: Anza
+Roll Number: 5678
+------------------------------
+Mathematics: 60 (D)
+English: 90 (A)
+Sign language: 65 (D)
+venda: 100 (A)
+------------------------------
+Total Marks: 315/400
+Average Marks: 78.75
+Overall Grade: C
+Status: Pass
+==============================

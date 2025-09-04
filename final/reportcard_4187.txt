@@ -1,0 +1,17 @@
+==== Student Report Card ====
+Report ID: 4187
+Date: 2025-09-03
+Student Name: Anza
+Roll Number: 1234
+------------------------------
+python: 60 (D)
+java: 40 (F)
+javascript: 69 (D)
+html: 24 (F)
+css: 45 (F)
+------------------------------
+Total Marks: 238/500
+Average Marks: 47.60
+Overall Grade: F
+Status: Fail
+==============================
